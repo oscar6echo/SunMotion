@@ -1,0 +1,1 @@
+This repo contains the pictures and the mathematica notebook used to used to create them (as well as some tables that the notebook creates) used in the 'Sun Motion' 3 posts in blog http://oscar6echo.blogspot.fr/.
